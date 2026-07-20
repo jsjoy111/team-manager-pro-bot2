@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: team-manager-pro-bot
+    name: team-manager-pro-bot2
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
